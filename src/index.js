@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="Team ThunderCats" />
-    <h2>This is our kickstarter tesssttttt {'\u2728'}</h2>
+    <h2>This is our kickstarter tesssttttt test 2 {'\u2728'}</h2>
   </div>
 );
 
